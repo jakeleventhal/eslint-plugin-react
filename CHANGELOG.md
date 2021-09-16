@@ -11,6 +11,7 @@ This change log adheres to standards from [Keep a CHANGELOG](http://keepachangel
 * [`display-name`]: fix arrow function returning result of function call with JSX arguments being interpreted as component ([#3065][] @danielfinke)
 * [`jsx-no-target-blank`]: avoid crash on attr-only href ([#3066][] @ljharb @gaz77a)
 * [`jsx-uses-vars`]: ignore lowercase tag names ([#3070][] @alanorozco)
+* [`no-unused-class-component-methods`]: Handle unused class component methods ([#2166][] @jakeleventhal @pawelnvk)
 
 [#3070]: https://github.com/yannickcr/eslint-plugin-react/pull/3070
 [#3066]: https://github.com/yannickcr/eslint-plugin-react/issue/3066
